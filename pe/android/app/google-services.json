@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "682081226135",
+    "project_id": "practiceexam-13204",
+    "storage_bucket": "practiceexam-13204.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682081226135:android:e119c2536b40ca6beac8d2",
+        "android_client_info": {
+          "package_name": "com.example.pe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV7nOzP1ciTNNV54AUwHsfpfWLNPIPZRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
